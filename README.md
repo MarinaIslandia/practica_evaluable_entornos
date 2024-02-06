@@ -1,4 +1,9 @@
-Comandos usados para la practica
+En esta practica hemos realizado unos ejercicios de control de versiones en la terminal de GitBash usando tanto un repositorio remoto como uno local. 
+Con este trabajo he consolidado mis conocimientos de la terminal de GitBash para el cobntrol de versiones, ya que hemos tenido que crear y editar documentos y ramas, resolver conflictos y clonar directorios. Todos los ejercicios estaban relacionados entre si, por lo que he aprendido a realizar muchos comandos diferentes y comprobar el estado de los mismos.
+La dificultad mas grande que he tenido para realizar este trabajo ha sido tener paciencia y entender lo que los ejercicios pedian, tuve que borrar un directorio entero y empezar otra vez porque no lo habia iniciado con git init y el paso 6 no podia hacerlo. Ademas el conflicto del paso 17 he tenido que crearlo manualmente. 
+Es importante saber utilizar la terminal de GitBash ya que en un futuro nos ayudara a crear grandes proyectos de desarrollo con varias ramas y versiones donde muchos programadores van escribiendo y actualizando el codigo. 
+
+Comandos utilizados en la practica
 cd - cambio de directorio
 mkdir - crear directorio
 git init - inicializar directorio como repositorio Git
