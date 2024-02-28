@@ -4,9 +4,9 @@ La dificultad mas grande que he tenido para realizar este trabajo ha sido tener 
 Es importante saber utilizar la terminal de GitBash ya que en un futuro nos ayudara a crear grandes proyectos de desarrollo con varias ramas y versiones donde muchos programadores van escribiendo y actualizando el codigo. 
 
 Comandos utilizados en la practica
-cd - cambio de directorio
 mkdir - crear directorio
 git init - inicializar directorio como repositorio Git
+cd - cambio de directorio
 touch - crear archivo
 echo - editar archivo añadiendo texto
 git add . - añade todos los archivos al working
